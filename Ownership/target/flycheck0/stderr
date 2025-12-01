@@ -1,1 +1,1 @@
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.00s
+error: manifest path `/Users/pauls/blockchain/rust_programming/Ownership/Cargo.toml` does not exist
